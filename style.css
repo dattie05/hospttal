@@ -1,0 +1,32 @@
+.row{
+
+    display: inline-block;
+    background-color: black;
+    height: 100%;
+    width: 100%;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+li a{
+    
+    text-decoration:none ;
+    padding: auto auto auto auto;
+    font-size: 20px;
+
+}
+
+a:hover{
+    color: orangered;
+}
+
+.form{
+    float: left;
+    margin-top: 40px;
+    transition: ease;
+}
